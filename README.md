@@ -1,81 +1,60 @@
-# Kimiya Heidarzadeh Naeini
+# Hi, I'm Kimiya 👋
 
-Welcome to my GitHub! I'm an Engineering student (Robotics minor) at the **Queensland University of Technology (QUT)**, with hands-on experience in real-time robotic systems, computer vision, and autonomous systems.
-
-I use GitHub to host projects I've built and share what I've learned — from SLAM pipelines and robotic control systems to IoT devices and ML classifiers.
-
-Feel free to explore my repositories and connect with me!
+**Software Engineering student @ QUT, Brisbane** | Graduating Dec 2026  
+Building at the intersection of **AI, full-stack dev, and robotics**
 
 ---
 
-## 📖 Education
+## 🧠 About Me
 
-**Bachelor of Engineering (Honours), Computer & Software Systems — Minor in Robotics** (2023 – 2026 Expected)
-- GPA: 5.7/7 │ Executive Dean's Commendation for Academic Excellence (2023, 2025)
-- Queensland University of Technology, Brisbane
-
-**Bachelor of Engineering, Electrical Engineering** (2021 – 2023)
-- Isfahan University of Technology, Iran
-- 🥈 2nd Place — University Robotics Competition (smart navigation stick for visually impaired users)
+- 🎓 Bachelor of Engineering (Hons) — Computer & Software Systems, with minors in Robotics and Software Engineering
+- 🏆 Executive Dean's Commendation for Academic Excellence (2023, 2025) | GPA 5.7/7
+- 🤖 Previously competed in robotics — 2nd place for a smart stick for visually impaired individuals (Arduino + sensors)
+- 🎨 Design & Marketing Coordinator @ QUT TECH | Peer Learning Facilitator @ STIMulate
+- 🔍 Seeking an internship or graduate role in software engineering / AI / ML
 
 ---
 
-## 👩‍💻 Experience
+## 🛠️ Tech Stack
 
-Tools, languages, and platforms I've worked with.
+**Languages**  
+Python · Java · C# · C · SQL · HTML/CSS · MATLAB · Assembly
 
-**Languages**
-`Python` `C` `MATLAB` `Java` `SQL`
+**Frameworks & Libraries**  
+TensorFlow · PyTorch · Scikit-learn · OpenCV · NumPy · Pandas · JavaFX · Matplotlib
 
-**Robotics & Computer Vision**
-`OpenCV` `CoppeliaSim` `DOBOT SDK` `Inverse Kinematics` `SLAM` `EKF Localisation` `Sensor Fusion`
+**Tools & Platforms**  
+Git · GitHub · Jira · MongoDB · SQLite · Ollama · Figma · Maven · Jupyter · VS Code · IntelliJ
 
-**Machine Learning & Data**
-`Scikit-learn` `TensorFlow` `NumPy` `Pandas` `Matplotlib` `Random Forest` `MobileNetV2` `Transfer Learning`
-
-**Electronics & Hardware**
-`Arduino` `Accelerometer/IMU` `Eagle (PCB)` `LTSpice`
-
-**Tools & Platforms**
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `MongoDB` `IntelliJ IDEA` `Figma` `Jira`
-
-**Practices**
-`Agile/Scrum` `OOP` `Embedded Systems` `IoT` `Real-Time Systems` `Algorithm Design`
+**Practices**  
+Agile/Scrum · OOP · Algorithm Design · Data Structures · IoT Systems
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🤖 Path Planning & SLAM — Advanced Robotics (EGB439)
-Implemented EKF-based probabilistic localisation for an autonomous mobile robot in unknown environments. Built a real-time SLAM pipeline with motion control, map-based navigation, and multi-sensor fusion for obstacle avoidance.
+### 🧠 Personalised Study Assistant App
+> JavaFX · SQLite · Ollama (LLM) · Agile
 
-### 👁️ Computer Vision Pick and Place System — Intro to Robotics (EGB339)
-End-to-end object detection and robotic control system using OpenCV and CoppeliaSim. Deployed coordinate transformation pipelines to physical DOBOT robotic arms with camera calibration and contour-based detection.
-
-### 🦾 Robot Arm Inverse Kinematics & Typing Task — Intro to Robotics (EGB339)
-Python-based IK solver for precise end-effector positioning, simulated full keyboard-typing motion sequences, and deployed to physical DOBOT hardware.
-
-### 📱 Human Activity Recognition (HAR) System — Applied IoT (IAB330)
-Wearable IoT device using accelerometer/IMU sensors achieving **98% classification accuracy** with a Random Forest model. Persisted features to MongoDB for downstream analytics.
-
-### 💻 Personalised Study Assistant App
-Full-stack JavaFX desktop app with SQLite database, integrating study habit tracking and a locally-run LLM (Ollama) for personalised content delivery. Built collaboratively in an Agile team.
+Full-stack desktop app that uses a locally-run LLM (via Ollama) to deliver dynamic, context-aware study tips and predictions tailored to each user's progress and habits.
 
 ---
 
-## 💼 Experience
+### 📊 Human Activity Recognition (HAR) System
+> Python · Random Forest · MongoDB · IoT · Arduino
 
-**Design & Marketing Coordinator — QUT TECH (The Emerging Coders Hub)** *(Jan – Nov 2025)*
-Led branding and outreach for a student tech community, boosting event attendance through targeted campaigns and managing digital assets across social media and events.
-
-**Peer Learning Facilitator — STIMulate, QUT** *(Jul – Nov 2024)*
-Mentored STEM students in OOP, Python, and Engineering Mathematics. Adapted teaching methods based on feedback to improve assessment outcomes.
-
-**Retail Assistant — Harli + Harpa** *(Nov 2025 – Jan 2026)*
-Customer service in a high-traffic retail environment, handling transactions, returns, and stock management.
+End-to-end wearable IoT pipeline that classifies physical activities in real time from accelerometer data — **98% accuracy**. Engineered feature extraction from raw sensor streams and persisted results to MongoDB for analytics.
 
 ---
 
-📍 Brisbane, QLD, Australia
-📧 kimiahdz2017@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/kimiya-heidarzadeh-naeini/)
+### 🗺️ Buzzlink – Travel Activity Match App
+> Figma · Python · Agile · Hackathon (48hrs)
+
+Built at a QUT Hackathon in 48 hours. Matching algorithm using interests and geolocation, gamification features (challenges, badges, rewards), and a full interactive Figma prototype — pitched to industry judges.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kimiya%20Heidarzadeh%20Naeini-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kimiya-heidarzadeh-naeini/)
+[![Email](https://img.shields.io/badge/Email-kimiahdz2017%40gmail.com-red?style=flat&logo=gmail)](mailto:kimiahdz2017@gmail.com)
