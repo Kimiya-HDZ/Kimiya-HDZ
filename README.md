@@ -1,10 +1,9 @@
-# About me:
+# Kimiya Heidarzadeh Naeini
 
-**Hi welcome to my account, I'm Kimiya :)**
-**Software Engineering student @ QUT, Brisbane**
-Building at the intersection of **AI, full-stack dev, and robotics**
+QUT software engineering student, Brisbane. I build ML systems, full-stack apps, and occasionally things that move.
 
-Currently looking for internships and grad roles 2026/27 in software / AI / ML.
+Graduating Dec 2026 — open to internships and grad roles in software / AI / ML.
+
 ---
 
 ### Tech
@@ -14,14 +13,14 @@ Currently looking for internships and grad roles 2026/27 in software / AI / ML.
 
 ---
 
-### A few things I've built
+### Things I've built
 
-**HAR System** — real-time activity classifier from wearable accelerometer data. 98% accuracy with Random Forest, results piped to MongoDB.
+**HAR System** — wearable IoT device that classifies physical activity in real time from accelerometer data. 98% accuracy. Results persisted to MongoDB.
 
-**Study Assistant App** — JavaFX desktop app with a locally-run LLM (Ollama) that gives personalised study tips based on your actual habits. Not just another to-do list.
+**Study Assistant App** — JavaFX desktop app powered by a locally-run LLM (Ollama). Gives study tips based on your actual habits, not generic advice.
 
-**Buzzlink** — built at a QUT Hackathon in 48 hours. Activity matching app using geolocation and interests, pitched to industry judges.
+**Buzzlink** — 48-hour hackathon. Activity matching app using geolocation and interests. It worked, we pitched it, judges liked it.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/kimiya-heidarzadeh-naeini/) · kimiahdz2017@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kimiya-heidarzadeh-naeini/) · [kimiahdz2017@gmail.com](mailto:kimiahdz2017@gmail.com)
