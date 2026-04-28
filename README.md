@@ -1,6 +1,7 @@
-# Hi welcome to my account, I'm Kimiya :)
+# About me:
 
-**About me: Software Engineering student @ QUT, Brisbane**
+**Hi welcome to my account, I'm Kimiya :)**
+**Software Engineering student @ QUT, Brisbane**
 Building at the intersection of **AI, full-stack dev, and robotics**
 
 Currently looking for internships and grad roles 2026/27 in software / AI / ML.
