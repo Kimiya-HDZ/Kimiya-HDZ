@@ -1,7 +1,7 @@
 # Hi, I'm Kimiya 👋
 
-**Software Engineering student @ QUT, Brisbane** | Graduating Dec 2026  
-Building at the intersection of **AI, full-stack dev, and robotics**
+**Software Engineering student @ QUT, Brisbane**
+Building at the intersection of **AI/ML, full-stack dev, and robotics**
 
 ---
 
