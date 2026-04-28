@@ -2,7 +2,7 @@
 
 QUT software engineering student, Brisbane. I build ML systems, full-stack apps, and occasionally things that move.
 
-Graduating Dec 2026 — open to internships and grad roles in software / AI / ML.
+Open to internships and grad roles in software / AI / ML.
 
 ---
 
